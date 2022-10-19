@@ -13,6 +13,6 @@ My replica of the Odin Project template.
 
 ### Things Learned
 
--How to group sections of code to effectively make a layout wih flexbox
--Curving corners on images and buttons
+-How to group sections of code to effectively make a layout wih flexbox\
+-Curving corners on images and buttons\
 -Basic CSS styling
