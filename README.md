@@ -1,9 +1,10 @@
 # Landing Page
 Built a plain style website to practice my CSS skills. Focused on flexbox properties and basic styling.
 
+[My Landing Page Website](paulinalasko.github.io/landing-page)
+
 ## Project Brief
 Created a website mimicking a given template by the Odin Project.
-![Odin Project Website Template](images/odin-project-temp.jpg)
 ![Odin Project Website Template](images/odin-project-temp2.jpg)
 
 My replica of the Odin Project template.
