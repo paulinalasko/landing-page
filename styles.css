@@ -1,0 +1,181 @@
+body {
+    font-family: "Roboto", sans-serif;
+}
+
+.main,
+.footer {
+    background-color: #1F2937;
+}
+
+a,
+.info,
+.footer {
+    font-size: 18px;
+    color: #E5E7EB;
+}
+
+/* Navigation Bar */
+
+.header {
+    display: flex;
+    align-items: center;
+    margin-bottom: -50px;  
+}
+
+ul {
+    list-style-type: none;
+    display: flex;
+    gap: 20px;
+}
+
+.header-right {
+    margin-left: auto;
+    margin-right: 50px;
+    
+}
+
+a {
+    text-decoration: none;
+}
+
+.logo {
+    font-size: 24px;
+    font-weight: bolder;
+    color: #F9FAF8;
+    margin-left: 35px;
+}
+
+h1 {
+    font-size: 48px;
+    font-weight: bold;
+    color: #F9FAF8
+}
+
+
+/* Top Hero Part */
+.top {
+    padding: 40px;
+    height: 450px;
+    margin-bottom: 45px;
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+}
+
+.top-text,
+.top-image {
+    flex: 1;
+}
+
+.top-button {
+    border-radius: 10px;
+    background-color: #3882F6;
+    color: white;
+    padding: 4px;
+    width: 100px;
+    }
+
+.top-image {
+    margin-left: 100px;
+}
+
+/* Middle Content Part */
+
+h2 {
+    font-size: 36px;
+    font-weight: bolder;
+    color: #1F2937;
+    display: flex;
+    justify-content: center;
+}
+
+.middle {
+    font-size: 17px;
+    color: rgb(104, 102, 102);
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    width: 100%;
+    margin-bottom: 35px;
+}
+
+.column {
+    flex: 25%;
+    text-align: center;
+}
+
+/* Sizing Images */
+
+.climber {
+    width: 380px;
+    height: 280px;
+}
+
+.images {
+    width: 210px;
+    height: 120px;
+    border-radius: 15px;
+    border: solid #3882F6;
+}
+
+/* Quotation Part */
+
+.bottom {
+    background-color: #E5E7EB;
+    font-style: italic;
+    color: #1F2937;
+    padding: 30px;
+    height: 180px;
+}
+
+
+.middle-text {
+    font-size: 25px;
+    text-align: center;
+}
+
+.bro-credit {
+    margin-left: 660px;
+    font-size: 22px;
+    font-weight: bold;
+}
+
+/* Sign Up Part */
+.bottom-2 {
+    background-color: #3882F6;
+    border-radius: 10px;
+    margin: 70px;
+    color: white;
+    padding: 20px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    gap: 120px;
+}
+
+
+h3 {
+    font-size: 17px;
+    font-weight: bold;
+}
+
+.member {
+    font-size: 14px;
+}
+
+.bottom-button {
+    border-radius: 10px;
+    border: solid white;
+    background-color: #3882F6;
+    font-size: 16px;
+    color: white;
+    padding: 6px;
+    width: 150px;
+}
+
+/* Footer */
+
+.footer {
+    padding: 2px;
+    text-align: center;
+}
